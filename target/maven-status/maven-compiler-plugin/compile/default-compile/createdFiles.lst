@@ -1,0 +1,9 @@
+com\example\ProductoJpa\controller\HomeController.class
+com\example\ProductoJpa\serviceImpl\ProductoServiceImpl.class
+com\example\ProductoJpa\ProductoJpaApplication.class
+com\example\ProductoJpa\serviceImpl\ProductoService.class
+com\example\ProductoJpa\rest\ProductoRestController.class
+com\example\ProductoJpa\ImgConfig.class
+com\example\ProductoJpa\entity\Producto.class
+com\example\ProductoJpa\controller\ProductoController.class
+com\example\ProductoJpa\repository\ProductoRepository.class
